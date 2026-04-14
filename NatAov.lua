@@ -36,7 +36,7 @@ repeat task.wait() until game:IsLoaded()
 
 loadstring(game:HttpGet(
 
- "https://raw.githubusercontent.com/Dev-AnhTuansitink/MainLoaderScript/refs/heads/main/ILoveH.lua"
+ "https://raw.githubusercontent.com/TumadamMod/cwertyur/refs/heads/main/TumadamEng.lua"
 
 ))()
 
@@ -242,7 +242,7 @@ end
 
 loadstring(game:HttpGet(
 
- "https://raw.githubusercontent.com/Dev-AnhTuansitink/MainLoaderScript/refs/heads/main/ILoveH.lua"
+ "https://raw.githubusercontent.com/TumadamMod/cwertyur/refs/heads/main/TumadamEng.lua"
 
 ))()
 
