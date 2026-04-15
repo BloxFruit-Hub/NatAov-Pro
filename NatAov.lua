@@ -36,7 +36,7 @@ repeat task.wait() until game:IsLoaded()
 
 loadstring(game:HttpGet(
 
- "https://raw.githubusercontent.com/TumadamMod/cwertyur/refs/heads/main/TumadamEng.lua"
+ "https://raw.githubusercontent.com/NaNacuti/tonghopscriptnanatv/refs/heads/main/NaNaAllscript.lua"
 
 ))()
 
@@ -242,7 +242,7 @@ end
 
 loadstring(game:HttpGet(
 
- "https://raw.githubusercontent.com/TumadamMod/cwertyur/refs/heads/main/TumadamEng.lua"
+ "https://raw.githubusercontent.com/NaNacuti/tonghopscriptnanatv/refs/heads/main/NaNaAllscript.lua"
 
 ))()
 
